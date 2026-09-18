@@ -216,3 +216,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project Specific / Large Datasets & Archives
+archive/
+datasets/
+data/
+*.zip
+*.tar.gz
+*.tar
+*.7z
+*.csv
+!results/**/*.csv
+
+# Model Checkpoints & Weights
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.bin
+weights/
+checkpoints/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
