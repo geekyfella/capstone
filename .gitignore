@@ -219,6 +219,7 @@ __marimo__/
 
 # Project Specific / Large Datasets & Archives
 archive/
+dataset/
 datasets/
 data/
 *.zip

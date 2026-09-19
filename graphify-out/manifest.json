@@ -1,0 +1,68 @@
+{
+  "src/analyze_and_plot.py": {
+    "mtime": 1789773728.562527,
+    "seen": 1789783168.8456845,
+    "ast_hash": "a9c1abe9ae18456045c205aa58ea563a",
+    "semantic_hash": "a9c1abe9ae18456045c205aa58ea563a"
+  },
+  "src/calculate_image_quality.py": {
+    "mtime": 1789773729.1170602,
+    "seen": 1789783168.8456886,
+    "ast_hash": "b0748ca9e9c226c755d3d2dd0c0047e6",
+    "semantic_hash": "b0748ca9e9c226c755d3d2dd0c0047e6"
+  },
+  "src/generate_presentation_illustrations.py": {
+    "mtime": 1789773728.4697235,
+    "seen": 1789783168.8456907,
+    "ast_hash": "2aa4ec2e95a5950878ba9d829cefe739",
+    "semantic_hash": "2aa4ec2e95a5950878ba9d829cefe739"
+  },
+  "README.md": {
+    "mtime": 1789774683.5270996,
+    "seen": 1789783168.845692,
+    "ast_hash": "4b4463eb4eedc0c3aaff4b5e4e5bcd47",
+    "semantic_hash": "4b4463eb4eedc0c3aaff4b5e4e5bcd47"
+  },
+  "graphify-out/converted/Capstion_Project_Phase_1_Review-1_Report_59ce6106.md": {
+    "mtime": 1789783069.2561722,
+    "seen": 1789783168.8456929,
+    "ast_hash": "7ef5e03a272711a7848d4974af36dcc6",
+    "semantic_hash": "7ef5e03a272711a7848d4974af36dcc6"
+  },
+  "graphify-out/converted/autonomous_vehicle_vit_capstone_report_fbd17e5d.md": {
+    "mtime": 1789783069.3395894,
+    "seen": 1789783168.8456936,
+    "ast_hash": "f9d397b6068d45658a7d9ce677eb016f",
+    "semantic_hash": "f9d397b6068d45658a7d9ce677eb016f"
+  },
+  "results/figures/clear_vs_rain_distributions.png": {
+    "mtime": 1789773728.4396749,
+    "seen": 1789783168.8456948,
+    "ast_hash": "32702d4b987520759be65c732e900e51",
+    "semantic_hash": "32702d4b987520759be65c732e900e51"
+  },
+  "results/figures/day_vs_night_distributions.png": {
+    "mtime": 1789773730.894054,
+    "seen": 1789783168.8456957,
+    "ast_hash": "2583767bb1a50ebb13e8210944fd43a7",
+    "semantic_hash": "2583767bb1a50ebb13e8210944fd43a7"
+  },
+  "results/figures/extreme_samples_gallery.png": {
+    "mtime": 1789773728.8166988,
+    "seen": 1789783168.8456964,
+    "ast_hash": "813971beb570c5511766fc46855bd149",
+    "semantic_hash": "813971beb570c5511766fc46855bd149"
+  },
+  "results/figures/figure3_luminance_cdf_linechart.jpg": {
+    "mtime": 1789773730.7367494,
+    "seen": 1789783168.8456976,
+    "ast_hash": "eb29693504e103476291c4ae656358fe",
+    "semantic_hash": "eb29693504e103476291c4ae656358fe"
+  },
+  "results/figures/visual_correlations.png": {
+    "mtime": 1789773729.056446,
+    "seen": 1789783168.8456984,
+    "ast_hash": "b3586b1a774b38f5e7191969852816f7",
+    "semantic_hash": "b3586b1a774b38f5e7191969852816f7"
+  }
+}

@@ -1,0 +1,11 @@
+# graphify ignore patterns
+dataset/
+datasets/
+archive/
+data/
+*.csv
+.venv/
+venv/
+__pycache__/
+.git/
+graphify-out/
